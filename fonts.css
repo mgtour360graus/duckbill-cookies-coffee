@@ -16,9 +16,3 @@
    font-weight: normal;
    font-style: normal;
 }
-@font-face {
-   font-family: "Monstro";
-   src: url("fonts/Monstro.woff") format("woff"), url("fonts/Monstro.eot") format("embedded-opentype"), url("fonts/Monstro.ttf") format("truetype"), url("fonts/Monstro.svg") format("svg");
-   font-weight: normal;
-   font-style: normal;
-}
