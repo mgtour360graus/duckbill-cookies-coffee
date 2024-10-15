@@ -3,31 +3,31 @@
 ## Action
 
 ### URL
-LinkBehaviour_4AC61C90_7E77_4165_41C7_DF8A9A735AE6.source = https://api.whatsapp.com/send?phone=555397082007&text=Ol%C3%A1,%20gostaria%20de%20fazer%20um%20pedido!
-LinkBehaviour_4B4682A8_7E77_C6A4_41DD_411911728B53.source = https://api.whatsapp.com/send?phone=555397082007&text=Ol%C3%A1,%20gostaria%20de%20fazer%20um%20pedido!
 LinkBehaviour_5F51EE1E_7EF7_C19C_41B3_9F23BBD21571.source = https://api.whatsapp.com/send?phone=555397082007&text=Ol%C3%A1,%20gostaria%20de%20fazer%20um%20pedido!
 LinkBehaviour_6E07DA11_7E9A_C167_41DA_DA50F092F435.source = https://api.whatsapp.com/send?phone=555397082007&text=Ol%C3%A1,%20gostaria%20de%20fazer%20um%20pedido!
+LinkBehaviour_4AC61C90_7E77_4165_41C7_DF8A9A735AE6.source = https://api.whatsapp.com/send?phone=555397082007&text=Ol%C3%A1,%20gostaria%20de%20fazer%20um%20pedido!
+LinkBehaviour_4B4682A8_7E77_C6A4_41DD_411911728B53.source = https://api.whatsapp.com/send?phone=555397082007&text=Ol%C3%A1,%20gostaria%20de%20fazer%20um%20pedido!
+LinkBehaviour_4AC64C8F_7E77_417C_41CB_C14FC59E2383.source = https://g.page/r/CfFjaC1nl0m1EAI/review
+LinkBehaviour_4B4652A9_7E77_C6A4_41C4_33BE989F1DF4.source = https://g.page/r/CfFjaC1nl0m1EAI/review
 LinkBehaviour_CCBE9D9A_E4F1_F1B9_41EA_2470451CB540.source = https://g.page/r/CfFjaC1nl0m1EAI/review
 LinkBehaviour_6E599584_7E95_436C_41B5_9343FA1787F3.source = https://g.page/r/CfFjaC1nl0m1EAI/review
-LinkBehaviour_4B4652A9_7E77_C6A4_41C4_33BE989F1DF4.source = https://g.page/r/CfFjaC1nl0m1EAI/review
-LinkBehaviour_4AC64C8F_7E77_417C_41CB_C14FC59E2383.source = https://g.page/r/CfFjaC1nl0m1EAI/review
+LinkBehaviour_4FA2080C_7E8A_C17C_41D2_DCD9F51FBA3B.source = https://goo.gl/maps/KxgndAmftMN6rgLc9
+LinkBehaviour_4B4B22A7_7E77_C6AC_41DF_345E0F877E80.source = https://goo.gl/maps/KxgndAmftMN6rgLc9
 LinkBehaviour_6EA7C614_7E9D_C16C_41D9_6040E3734E58.source = https://goo.gl/maps/KxgndAmftMN6rgLc9
 LinkBehaviour_4ABF22E0_7E77_46A4_41A3_B6318624020C.source = https://goo.gl/maps/KxgndAmftMN6rgLc9
-LinkBehaviour_4B4B22A7_7E77_C6AC_41DF_345E0F877E80.source = https://goo.gl/maps/KxgndAmftMN6rgLc9
-LinkBehaviour_4FA2080C_7E8A_C17C_41D2_DCD9F51FBA3B.source = https://goo.gl/maps/KxgndAmftMN6rgLc9
-LinkBehaviour_4AC305CE_7E77_42FD_41DA_978309BE9664.source = https://search.google.com/local/writereview?placeid=ChIJVVVVlQQFk40RcQNgl-BmHow
 LinkBehaviour_C3ECBEB4_E4F0_738A_41CC_AC9F0880ED1E.source = https://search.google.com/local/writereview?placeid=ChIJVVVVlQQFk40RcQNgl-BmHow
+LinkBehaviour_4AC305CE_7E77_42FD_41DA_978309BE9664.source = https://search.google.com/local/writereview?placeid=ChIJVVVVlQQFk40RcQNgl-BmHow
 LinkBehaviour_4B48F2A9_7E77_C6A4_41D2_1E391D672CF0.source = https://wa.link/o3ea3o
 LinkBehaviour_6E61D716_7E96_CF6D_4194_D07F8A901C7D.source = https://wa.link/o3ea3o
 LinkBehaviour_4ECE0944_7E8D_43EC_41B3_CEE16A7CB25D.source = https://www.duckbillcookies.com.br/index
 LinkBehaviour_4ABE12E1_7E77_46A4_41D2_FF3347017F01.source = https://www.duckbillcookies.com.br/index
-LinkBehaviour_4ABED2E0_7E77_46A4_418F_B93545984BAA.source = https://www.facebook.com/Duckbill-Cookies-Coffee-Rio-GrandeRS-110270121208374/
 LinkBehaviour_50171E6C_7E8A_C1BC_41B7_3899317C8199.source = https://www.facebook.com/Duckbill-Cookies-Coffee-Rio-GrandeRS-110270121208374/
+LinkBehaviour_4ABED2E0_7E77_46A4_418F_B93545984BAA.source = https://www.facebook.com/Duckbill-Cookies-Coffee-Rio-GrandeRS-110270121208374/
 LinkBehaviour_4AC69C91_7E77_4164_41D4_0E9CF1A1A208.source = https://www.ifood.com.br/delivery/rio-grande-rs/duckbill---rio-grande-cassino/7699fe28-9160-435b-ad51-267d2753f055?UTM_Medium=share
-LinkBehaviour_4B4A829F_7E77_C69B_41B7_F45D14BB7F56.source = https://www.instagram.com/duckbill.riogrande/
 LinkBehaviour_6E6FCB52_7E8F_47E4_41B3_FCF63D8F896F.source = https://www.instagram.com/duckbill.riogrande/
 LinkBehaviour_51110F74_7E8B_5FAC_41C1_480465C32995.source = https://www.instagram.com/duckbill.riogrande/
 LinkBehaviour_4ABE02DF_7E77_469C_410F_E0E52B6CB8E0.source = https://www.instagram.com/duckbill.riogrande/
+LinkBehaviour_4B4A829F_7E77_C69B_41B7_F45D14BB7F56.source = https://www.instagram.com/duckbill.riogrande/
 
 ## Media
 
@@ -74,7 +74,6 @@ Button_6E013E6B_7E8A_C1A4_417E_0E263C3BAA7E.label = TOUR VIRTUAL 360º
 Button_6E013E6B_7E8A_C1A4_417E_0E263C3BAA7E_mobile.label = TOUR VIRTUAL 360º
 
 ### Image
-Image_4B31E480_7E75_4164_41D2_EA1D484AA324.url = skin/Image_4B31E480_7E75_4164_41D2_EA1D484AA324_pt.png
 Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C_mobile.url = skin/Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C_mobile_pt.png
 Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C.url = skin/Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C_pt.png
 Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48_mobile.url = skin/Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48_mobile_pt.png
