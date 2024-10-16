@@ -12,20 +12,22 @@ LinkBehaviour_4B4652A9_7E77_C6A4_41C4_33BE989F1DF4.source = https://g.page/r/CfF
 LinkBehaviour_CCBE9D9A_E4F1_F1B9_41EA_2470451CB540.source = https://g.page/r/CfFjaC1nl0m1EAI/review
 LinkBehaviour_6E599584_7E95_436C_41B5_9343FA1787F3.source = https://g.page/r/CfFjaC1nl0m1EAI/review
 LinkBehaviour_4FA2080C_7E8A_C17C_41D2_DCD9F51FBA3B.source = https://goo.gl/maps/KxgndAmftMN6rgLc9
-LinkBehaviour_4B4B22A7_7E77_C6AC_41DF_345E0F877E80.source = https://goo.gl/maps/KxgndAmftMN6rgLc9
-LinkBehaviour_6EA7C614_7E9D_C16C_41D9_6040E3734E58.source = https://goo.gl/maps/KxgndAmftMN6rgLc9
 LinkBehaviour_4ABF22E0_7E77_46A4_41A3_B6318624020C.source = https://goo.gl/maps/KxgndAmftMN6rgLc9
+LinkBehaviour_BD79ABA3_976B_CED8_41DF_65421001F098.source = https://goo.gl/maps/KxgndAmftMN6rgLc9
+LinkBehaviour_B0D99B32_977B_CE38_41DB_C41535298D63.source = https://goo.gl/maps/KxgndAmftMN6rgLc9
 LinkBehaviour_C3ECBEB4_E4F0_738A_41CC_AC9F0880ED1E.source = https://search.google.com/local/writereview?placeid=ChIJVVVVlQQFk40RcQNgl-BmHow
 LinkBehaviour_4AC305CE_7E77_42FD_41DA_978309BE9664.source = https://search.google.com/local/writereview?placeid=ChIJVVVVlQQFk40RcQNgl-BmHow
 LinkBehaviour_4B48F2A9_7E77_C6A4_41D2_1E391D672CF0.source = https://wa.link/o3ea3o
 LinkBehaviour_6E61D716_7E96_CF6D_4194_D07F8A901C7D.source = https://wa.link/o3ea3o
-LinkBehaviour_4ECE0944_7E8D_43EC_41B3_CEE16A7CB25D.source = https://www.duckbillcookies.com.br/index
 LinkBehaviour_4ABE12E1_7E77_46A4_41D2_FF3347017F01.source = https://www.duckbillcookies.com.br/index
-LinkBehaviour_50171E6C_7E8A_C1BC_41B7_3899317C8199.source = https://www.facebook.com/Duckbill-Cookies-Coffee-Rio-GrandeRS-110270121208374/
+LinkBehaviour_4ECE0944_7E8D_43EC_41B3_CEE16A7CB25D.source = https://www.duckbillcookies.com.br/index
 LinkBehaviour_4ABED2E0_7E77_46A4_418F_B93545984BAA.source = https://www.facebook.com/Duckbill-Cookies-Coffee-Rio-GrandeRS-110270121208374/
+LinkBehaviour_50171E6C_7E8A_C1BC_41B7_3899317C8199.source = https://www.facebook.com/Duckbill-Cookies-Coffee-Rio-GrandeRS-110270121208374/
 LinkBehaviour_4AC69C91_7E77_4164_41D4_0E9CF1A1A208.source = https://www.ifood.com.br/delivery/rio-grande-rs/duckbill---rio-grande-cassino/7699fe28-9160-435b-ad51-267d2753f055?UTM_Medium=share
-LinkBehaviour_6E6FCB52_7E8F_47E4_41B3_FCF63D8F896F.source = https://www.instagram.com/duckbill.riogrande/
+LinkBehaviour_B27BE547_977A_DA58_41D4_65960A4484C2.source = https://www.ifood.com.br/delivery/rio-grande-rs/duckbill---rio-grande-cassino/7699fe28-9160-435b-ad51-267d2753f055?UTM_Medium=share
+LinkBehaviour_4B4B22A7_7E77_C6AC_41DF_345E0F877E80.source = https://www.ifood.com.br/delivery/rio-grande-rs/duckbill---rio-grande-cassino/7699fe28-9160-435b-ad51-267d2753f055?UTM_Medium=share
 LinkBehaviour_51110F74_7E8B_5FAC_41C1_480465C32995.source = https://www.instagram.com/duckbill.riogrande/
+LinkBehaviour_6E6FCB52_7E8F_47E4_41B3_FCF63D8F896F.source = https://www.instagram.com/duckbill.riogrande/
 LinkBehaviour_4ABE02DF_7E77_469C_410F_E0E52B6CB8E0.source = https://www.instagram.com/duckbill.riogrande/
 LinkBehaviour_4B4A829F_7E77_C69B_41B7_F45D14BB7F56.source = https://www.instagram.com/duckbill.riogrande/
 
@@ -53,12 +55,14 @@ panorama_757B5E78_7E4E_6833_41DD_2E47B7B15753.label = IMG_4028 Panorama
 ## Skin
 
 ### Button
-Button_6EA0E613_7E9D_C164_41C5_E7DE33562BB2.label = COMO CHEGAR
-Button_6EA0E613_7E9D_C164_41C5_E7DE33562BB2_mobile.label = COMO CHEGAR
+Button_B0D91B31_977B_CE38_41E0_45EC4D51DACB.label = COMO CHEGAR
+Button_BD7ACBA2_976B_CED8_41DA_FCC02E5996D4_mobile.label = COMO CHEGAR
 Button_6C1AE403_7C03_7954_41C9_486B58E61A2F.label = Clique aqui para mais informações 
 Button_6C1AE403_7C03_7954_41C9_486B58E61A2F_mobile.label = Clique aqui para mais informações 
-Button_6E693B51_7E8F_47E7_41DA_003543290CC4_mobile.label = INSTAGRAM
+Button_6EA0E613_7E9D_C164_41C5_E7DE33562BB2.label = IFOOD
+Button_6EA0E613_7E9D_C164_41C5_E7DE33562BB2_mobile.label = IFOOD
 Button_6E693B51_7E8F_47E7_41DA_003543290CC4.label = INSTAGRAM
+Button_6E693B51_7E8F_47E7_41DA_003543290CC4_mobile.label = INSTAGRAM
 Button_6E5AD583_7E95_4364_41DA_48FC4C99DA8C_mobile.label = NOS AVALIE
 Button_6E5AD583_7E95_4364_41DA_48FC4C99DA8C.label = NOS AVALIE
 Button_6E06BA11_7E9A_C164_41B9_4422DD368DFE_mobile.label = NOSSO WHATSAPP
